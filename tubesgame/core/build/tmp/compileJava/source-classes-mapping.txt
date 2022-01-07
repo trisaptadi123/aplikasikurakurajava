@@ -1,0 +1,2 @@
+com/kurakura/game/KuraKura.java
+ com.kurakura.game.KuraKura

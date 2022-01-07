@@ -1,0 +1,2 @@
+com/kurakura/game/desktop/DesktopLauncher.java
+ com.kurakura.game.desktop.DesktopLauncher
